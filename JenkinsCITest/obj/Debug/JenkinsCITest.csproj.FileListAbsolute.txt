@@ -1,0 +1,8 @@
+C:\Code\JenkinsCI\JenkinsCITest\bin\Debug\JenkinsCITest.dll
+C:\Code\JenkinsCI\JenkinsCITest\bin\Debug\JenkinsCITest.pdb
+C:\Code\JenkinsCI\JenkinsCITest\bin\Debug\JenkinsCI.exe
+C:\Code\JenkinsCI\JenkinsCITest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Code\JenkinsCI\JenkinsCITest\bin\Debug\JenkinsCI.pdb
+C:\Code\JenkinsCI\JenkinsCITest\obj\Debug\JenkinsCITest.csprojResolveAssemblyReference.cache
+C:\Code\JenkinsCI\JenkinsCITest\obj\Debug\JenkinsCITest.dll
+C:\Code\JenkinsCI\JenkinsCITest\obj\Debug\JenkinsCITest.pdb
